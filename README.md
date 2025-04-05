@@ -65,6 +65,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ![Data Flow](docs/Data_flow.png)
 
 ![Data Integration](docs/Data_integration.png)
+
+![Data Integration](docs/Data_model.png)
 ### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
@@ -117,5 +119,5 @@ Hi there! I'm **Isaac Chuks**. I’m an IT professional and passionate Data Anal
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 
-[![LinkedIn](https://www.linkedin.com/in/chukwuemekaanyakwu2409)
+[![LinkedIn](https://www.linkedin.com/in/chukwuemekaanyakwu2409/))
 
